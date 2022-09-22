@@ -3,7 +3,7 @@
 }
 
 body {
-  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+  background: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
   color: #fff;
   display: flex;
   font-family: "Muli", sans-serif;
@@ -28,7 +28,7 @@ input[type="checkbox"] {
 }
 
 .container {
-  background: grey;
+  background: #808080;
   box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.2);
   padding: 20px;
   width: 350px;
